@@ -1,1 +1,1 @@
-Script to print absolute working directory
+Where am.i
