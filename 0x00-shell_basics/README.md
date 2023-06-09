@@ -1,1 +1,1 @@
-New eadme
+Script to print absolute working directory
